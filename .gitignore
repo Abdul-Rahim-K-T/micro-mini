@@ -1,0 +1,8 @@
+admin/.env
+user/.env
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
