@@ -1,8 +1,5 @@
 admin/.env
 user/.env
 
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+# Go modules
+go.sum
